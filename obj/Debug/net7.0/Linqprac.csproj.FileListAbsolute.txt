@@ -1,0 +1,15 @@
+/home/yennapu.abhilash/Desktop/Linqprac/bin/Debug/net7.0/Linqprac
+/home/yennapu.abhilash/Desktop/Linqprac/bin/Debug/net7.0/Linqprac.deps.json
+/home/yennapu.abhilash/Desktop/Linqprac/bin/Debug/net7.0/Linqprac.runtimeconfig.json
+/home/yennapu.abhilash/Desktop/Linqprac/bin/Debug/net7.0/Linqprac.dll
+/home/yennapu.abhilash/Desktop/Linqprac/bin/Debug/net7.0/Linqprac.pdb
+/home/yennapu.abhilash/Desktop/Linqprac/obj/Debug/net7.0/Linqprac.csproj.AssemblyReference.cache
+/home/yennapu.abhilash/Desktop/Linqprac/obj/Debug/net7.0/Linqprac.GeneratedMSBuildEditorConfig.editorconfig
+/home/yennapu.abhilash/Desktop/Linqprac/obj/Debug/net7.0/Linqprac.AssemblyInfoInputs.cache
+/home/yennapu.abhilash/Desktop/Linqprac/obj/Debug/net7.0/Linqprac.AssemblyInfo.cs
+/home/yennapu.abhilash/Desktop/Linqprac/obj/Debug/net7.0/Linqprac.csproj.CoreCompileInputs.cache
+/home/yennapu.abhilash/Desktop/Linqprac/obj/Debug/net7.0/Linqprac.dll
+/home/yennapu.abhilash/Desktop/Linqprac/obj/Debug/net7.0/refint/Linqprac.dll
+/home/yennapu.abhilash/Desktop/Linqprac/obj/Debug/net7.0/Linqprac.pdb
+/home/yennapu.abhilash/Desktop/Linqprac/obj/Debug/net7.0/Linqprac.genruntimeconfig.cache
+/home/yennapu.abhilash/Desktop/Linqprac/obj/Debug/net7.0/ref/Linqprac.dll
